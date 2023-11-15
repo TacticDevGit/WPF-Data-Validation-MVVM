@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Data Input Validation/1.0.0": {
+        "runtime": {
+          "Data Input Validation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Data Input Validation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

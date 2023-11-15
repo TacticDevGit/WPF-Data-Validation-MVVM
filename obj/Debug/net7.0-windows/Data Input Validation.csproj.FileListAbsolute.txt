@@ -1,0 +1,21 @@
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\bin\Debug\net7.0-windows\Data Input Validation.exe
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\bin\Debug\net7.0-windows\Data Input Validation.deps.json
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\bin\Debug\net7.0-windows\Data Input Validation.runtimeconfig.json
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\bin\Debug\net7.0-windows\Data Input Validation.dll
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\bin\Debug\net7.0-windows\Data Input Validation.pdb
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation_MarkupCompile.cache
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation_MarkupCompile.lref
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.g.resources
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.AssemblyInfoInputs.cache
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.AssemblyInfo.cs
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.dll
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\refint\Data Input Validation.dll
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.pdb
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\Data Input Validation.genruntimeconfig.cache
+C:\Users\Jamie\source\repos\Data Input Validation\Data Input Validation\obj\Debug\net7.0-windows\ref\Data Input Validation.dll
